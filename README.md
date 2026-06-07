@@ -1,5 +1,7 @@
 # 🌤️ SkyVision: Automated Sky Condition Analysis System
 
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nAN1pndI5nI?si=akG0RvcE0sTJCnBV)
+
 SkyVision is an image processing and computer vision application that automatically analyzes sky images and classifies weather conditions. The system can detect different sky types, estimate cloud coverage, and provide visual analysis through an intuitive graphical user interface.
 
 Developed as a laboratory project for **CSE 4128: Image Processing and Computer Vision Laboratory** at **Khulna University of Engineering & Technology (KUET)**.
